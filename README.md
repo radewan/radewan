@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radewan
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Nodejs
 - 📫 How to reach me ranggadendi6@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radewan&show_icons=true&locale=en&layout=compact" alt="Radewan" /></p>
