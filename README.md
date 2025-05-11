@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student at SMK Negeri 2 Sukabumi<br>🌱 I’m currently learning Typescript
+🔭 I’m currently student at SMK Negeri 2 Sukabumi<br>🌱 I’m currently learning NestJS
 
 
 ## 🌐 Socials:
